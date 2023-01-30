@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="hint">What is your nickname?</string>
+    <string name="done">Done</string>
+    <string name="about_text"><b>Hi! I\'m Abdo Sharaf</b>
+\nI\'m 20 years old, a 3rd level CS student, and an Android developer.
+\nThis app is just a test of LinearLayout.
+\n\n<b>This is a place holder text:</b>
+\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ut lorem pulvinar, condimentum urna in, convallis nibh.
+
+\n\nAliquam malesuada justo a mi lobortis ultricies. Sed vitae quam pharetra sapien porta fermentum sed id massa.
+\nQuisque bibendum, sem nec viverra porta, lorem neque luctus mauris, et pulvinar lorem mi non elit.
+
+\n\nIn rutrum id enim nec rutrum. Donec tempor nibh at posuere interdum.
+
+\n\nNunc dapibus, eros eget sodales auctor, nunc turpis aliquam justo, at auctor diam lorem vel risus.
+\nNulla facilisi. Cras semper nunc quis aliquam euismod.
+
+\n\nDuis vitae diam vel metus ultrices sollicitudin nec nec ipsum.
+\nEtiam non malesuada orci. Quisque dictum tristique leo et sollicitudin.
+
+\n\nPraesent cursus lobortis sem a imperdiet. In placerat, tortor nec placerat facilisis, eros turpis auctor ante, eget accumsan odio nisi a ante.
+
+\n\nMauris ac ornare orci. Morbi finibus augue et risus suscipit, in aliquam tortor iaculis.
+
+\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ut lorem pulvinar, condimentum urna in, convallis nibh.
+
+\n\nAliquam malesuada justo a mi lobortis ultricies. Sed vitae quam pharetra sapien porta fermentum sed id massa.
+\nQuisque bibendum, sem nec viverra porta, lorem neque luctus mauris, et pulvinar lorem mi non elit.
+    </string>
+</resources>
